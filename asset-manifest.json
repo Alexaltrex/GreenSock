@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.be67d468.css",
-    "main.js": "/static/js/main.6d33af5d.js",
-    "static/js/787.e7ba4ceb.chunk.js": "/static/js/787.e7ba4ceb.chunk.js",
-    "static/media/image3.jpg": "/static/media/image3.809923c79e94c00b8953.jpg",
-    "static/media/image7.jpg": "/static/media/image7.59a31338e4d0a14ceb1f.jpg",
-    "static/media/image5.jpg": "/static/media/image5.25e2987e2a7153e8e059.jpg",
-    "static/media/image8.jpg": "/static/media/image8.1a9eedb0d72a46e3456a.jpg",
-    "static/media/image6.jpg": "/static/media/image6.7fa3bc4d205f5d4996e7.jpg",
-    "static/media/image1.jpg": "/static/media/image1.e287219d264ab7e0f2bf.jpg",
-    "static/media/image2.jpg": "/static/media/image2.f5b3148ec82f6165f94c.jpg",
-    "static/media/image4.jpg": "/static/media/image4.1b0548c357736f655647.jpg",
-    "index.html": "/index.html",
-    "main.be67d468.css.map": "/static/css/main.be67d468.css.map",
-    "main.6d33af5d.js.map": "/static/js/main.6d33af5d.js.map",
-    "787.e7ba4ceb.chunk.js.map": "/static/js/787.e7ba4ceb.chunk.js.map"
+    "main.css": "/GreenSock/static/css/main.be67d468.css",
+    "main.js": "/GreenSock/static/js/main.1f22b109.js",
+    "static/js/787.e7ba4ceb.chunk.js": "/GreenSock/static/js/787.e7ba4ceb.chunk.js",
+    "static/media/image3.jpg": "/GreenSock/static/media/image3.809923c79e94c00b8953.jpg",
+    "static/media/image7.jpg": "/GreenSock/static/media/image7.59a31338e4d0a14ceb1f.jpg",
+    "static/media/image5.jpg": "/GreenSock/static/media/image5.25e2987e2a7153e8e059.jpg",
+    "static/media/image8.jpg": "/GreenSock/static/media/image8.1a9eedb0d72a46e3456a.jpg",
+    "static/media/image6.jpg": "/GreenSock/static/media/image6.7fa3bc4d205f5d4996e7.jpg",
+    "static/media/image1.jpg": "/GreenSock/static/media/image1.e287219d264ab7e0f2bf.jpg",
+    "static/media/image2.jpg": "/GreenSock/static/media/image2.f5b3148ec82f6165f94c.jpg",
+    "static/media/image4.jpg": "/GreenSock/static/media/image4.1b0548c357736f655647.jpg",
+    "index.html": "/GreenSock/index.html",
+    "main.be67d468.css.map": "/GreenSock/static/css/main.be67d468.css.map",
+    "main.1f22b109.js.map": "/GreenSock/static/js/main.1f22b109.js.map",
+    "787.e7ba4ceb.chunk.js.map": "/GreenSock/static/js/787.e7ba4ceb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be67d468.css",
-    "static/js/main.6d33af5d.js"
+    "static/js/main.1f22b109.js"
   ]
 }
