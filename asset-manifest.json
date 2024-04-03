@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GreenSock/static/css/main.fe26abf5.css",
-    "main.js": "/GreenSock/static/js/main.67cc3de0.js",
+    "main.css": "/GreenSock/static/css/main.4bf1eef6.css",
+    "main.js": "/GreenSock/static/js/main.8d241efc.js",
     "static/js/787.e7ba4ceb.chunk.js": "/GreenSock/static/js/787.e7ba4ceb.chunk.js",
     "static/media/image3.jpg": "/GreenSock/static/media/image3.809923c79e94c00b8953.jpg",
     "static/media/image7.jpg": "/GreenSock/static/media/image7.59a31338e4d0a14ceb1f.jpg",
@@ -12,12 +12,12 @@
     "static/media/image2.jpg": "/GreenSock/static/media/image2.f5b3148ec82f6165f94c.jpg",
     "static/media/image4.jpg": "/GreenSock/static/media/image4.1b0548c357736f655647.jpg",
     "index.html": "/GreenSock/index.html",
-    "main.fe26abf5.css.map": "/GreenSock/static/css/main.fe26abf5.css.map",
-    "main.67cc3de0.js.map": "/GreenSock/static/js/main.67cc3de0.js.map",
+    "main.4bf1eef6.css.map": "/GreenSock/static/css/main.4bf1eef6.css.map",
+    "main.8d241efc.js.map": "/GreenSock/static/js/main.8d241efc.js.map",
     "787.e7ba4ceb.chunk.js.map": "/GreenSock/static/js/787.e7ba4ceb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe26abf5.css",
-    "static/js/main.67cc3de0.js"
+    "static/css/main.4bf1eef6.css",
+    "static/js/main.8d241efc.js"
   ]
 }
